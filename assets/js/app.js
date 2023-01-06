@@ -128,9 +128,9 @@ let footer = $(`
           <div class="">
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
-              </div>
-                <h3>Email:<a href="mailto:kibiezekiel@gmail.com? &subject=Mail from our Website&body=Some body text here"> kibiezekiel@gmail.com</a>  </3>
-                <h3>Phone: <a href="tel:+254722991833">+254722991833</a></h3>
+              </div >
+                <h3>Email:<a class="contact" href="mailto:kibiezekiel@gmail.com? &subject=Mail from our Website&body=Some body text here"> kibiezekiel@gmail.com</a>  </3>
+                <h3>Phone: <a class="contact" href="tel:+254722991833">+254722991833</a></h3>
              </div>
           </div>
         </div>

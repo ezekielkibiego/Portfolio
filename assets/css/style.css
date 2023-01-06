@@ -3,6 +3,9 @@
   src: url(../fonts/Agustina.woff);
 }
 
+.contact {
+  color: #6617cb;
+}
 /*CSS variable declaration for light/dark mode*/
 
 html[data-theme="light"] {
